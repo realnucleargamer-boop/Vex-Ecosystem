@@ -20,3 +20,5 @@ VEX AI
 An artificial intelligence project exploring neural and hybrid model architectures, natural-language interaction and integration with the wider VEX platform.
 
 Current development: VEX AI 1.5 – Crystal. 
+
+For Further information visit https://sites.google.com/view/vex-ecosystem
